@@ -9,6 +9,6 @@ This is a simple login for real state site.
 ## Screenshot
 
 <p align="center">
-	<img src="src/assets/images/screenshot_main.png" />
+	<img src="src/assets/images/screenshot.png" />
 </p>
 
